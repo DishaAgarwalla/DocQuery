@@ -29,28 +29,34 @@ git clone https://github.com/DishaAgarwalla/DocQuery.git
 cd DocQuery
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+```
 
-## 📝 How to Use
+📝 How to Use
 
-1. Upload PDF files via sidebar
-2. Click "Process New Documents"
-3. Wait for processing to complete
-4. Ask questions in natural language
-5. Get answers with page citations
+Upload PDF files via sidebar
 
-## 🙏 Acknowledgements
+Click "Process New Documents"
 
-- Streamlit for the amazing framework
-- Hugging Face for FLAN-T5 model
-- FAISS for vector similarity search
+Wait for processing to complete
 
-## 👨‍💻 Author
+Ask questions in natural language
 
-**Disha Agarwalla**
+Get answers with page citations
 
-- GitHub: [@DishaAgarwalla](https://github.com/DishaAgarwalla)
-- Project Link: [https://github.com/DishaAgarwalla/DocQuery](https://github.com/DishaAgarwalla/DocQuery)
+🙏 Acknowledgements
 
----
+Streamlit for the amazing framework
 
-**Made with ❤️ by Disha Agarwalla**
+Hugging Face for FLAN-T5 model
+
+FAISS for vector similarity search
+
+👨‍💻 Author
+Disha Agarwalla
+
+GitHub: @DishaAgarwalla
+
+Project Link: https://github.com/DishaAgarwalla/DocQuery
+
+Made with ❤️ by Disha Agarwalla
+
