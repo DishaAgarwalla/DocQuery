@@ -1,0 +1,15 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+pypdf
+transformers
+torch
+numpystreamlit>=1.28.0
+langchain-text-splitters>=0.2.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+pypdf>=3.0.0
+transformers>=4.35.0
+torch>=2.0.0
+numpy>=1.24.0
