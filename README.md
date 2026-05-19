@@ -1,6 +1,13 @@
 # 📄 DocQuery - Intelligent Document QA System
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docquery-p3qfddad4uefhznlgxszyj.streamlit.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
+
 **DocQuery** is an intelligent document question-answering system that allows users to upload PDF documents and ask questions in natural language. The system uses advanced NLP techniques to provide accurate answers with page citations.
+
+
 
 ## ✨ Features
 
